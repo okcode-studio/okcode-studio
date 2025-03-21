@@ -1,3 +1,3 @@
-## Hi there 👋
+# We've moved! 🚖
 
-okcode-studio has moved to [sandpiper-codes](https://github.com/sandpiper-codes/) on GitHub.
+OK Code Studio is now at [Sandpiper Codes](https://github.com/sandpiper-codes/) on GitHub.
